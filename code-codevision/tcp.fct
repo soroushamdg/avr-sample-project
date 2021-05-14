@@ -1,0 +1,7 @@
+main DSTACK_USAGE:50 DSTACK_LEVEL:50 FILE:"tcp.c" LINE:268
+parse_command DSTACK_USAGE:106 DSTACK_LEVEL:156 FILE:"tcp.c" LINE:240
+run_command DSTACK_USAGE:4 DSTACK_LEVEL:160 FILE:"tcp.c" LINE:202
+div_command DSTACK_USAGE:20 DSTACK_LEVEL:180 FILE:"tcp.c" LINE:176
+char_num_list_to_int DSTACK_USAGE:110 DSTACK_LEVEL:290 FILE:"tcp.c" LINE:83
+strtok DSTACK_USAGE:6 DSTACK_LEVEL:296 FILE:"E:\Program Files\cvavr\lib\string.lib" LINE:4342
+strspnf DSTACK_USAGE:4 DSTACK_LEVEL:300 FILE:"E:\Program Files\cvavr\lib\string.lib" LINE:4217
